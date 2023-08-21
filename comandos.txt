@@ -1,0 +1,8 @@
+Comandos que utilicé
+- git init
+- git add remote origin <link del repo> 
+- git commit -m ""
+- git add .
+- git push
+- mkdir
+- touch

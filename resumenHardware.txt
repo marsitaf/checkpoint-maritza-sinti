@@ -1,0 +1,4 @@
+Memorias principales de la computadora
+- Memoria RAM
+- Memoria Caché
+- Memoria ROM

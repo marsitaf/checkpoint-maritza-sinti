@@ -1,0 +1,4 @@
+Ejemplos de software
+- Sistemas operativos: Linux, macOS, Android.
+- Navegadores web: Google, Brave, Mozilla.
+- Videojuegos: Minecraft, Wordl of Warcraft
